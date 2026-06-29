@@ -33,14 +33,14 @@ This mod focuses on a simple on-screen CPS display with a few customization opti
 
 ## Screenshots
 
-Add screenshots here once you have a few clean in-game captures:
+Example gallery sections for the project page:
 
 - HUD in normal gameplay
 - Config screen open in Mod Menu
 - Different color and style example
 - Alternate HUD position example
 
-Suggested filenames if you add them later:
+Suggested gallery filenames:
 
 - `docs/screenshots/hud-default.png`
 - `docs/screenshots/config-screen.png`
@@ -95,10 +95,8 @@ This repository is currently set up for `1.21.11`.
 
 ## Modrinth
 
-The Modrinth project link can be added here after approval.
-
-- Project: `coming soon`
-- Versions: `coming soon`
+- Project page: `to be added`
+- Versions page: `to be added`
 
 ## Source And Issues
 
