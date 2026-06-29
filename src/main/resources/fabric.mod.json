@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "oneauras-cps-counter",
+  "version": "${version}",
+  "name": "oneaura's CPS Counter",
+  "description": "CPS Counter for the latest versions!",
+  "authors": [
+    "oneaura"
+  ],
+  "contact": {
+    "homepage": "https://github.com/oneauraaa/oneauras-cps-counter",
+    "sources": "https://github.com/oneauraaaa/oneauras-cps-counter"
+  },
+  "license": "MIT",
+  "icon": "assets/oneauras-cps-counter/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.oneaura.cpscounter.OneaurasCPSCounter"
+    ],
+    "client": [
+      "com.oneaura.cpscounter.OneaurasCPSCounterClient"
+    ],
+    "modmenu": [
+      "com.oneaura.cpscounter.config.CPSModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21.6",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
